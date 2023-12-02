@@ -1,0 +1,23 @@
+[package]
+name = "aoc20223"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "day-01-part-01"
+path = "day-01/part-01.rs"
+
+[[bin]]
+name = "day-01-part-02"
+path = "day-01/part-02.rs"
+
+[[bin]]
+name = "day-02-part-01"
+path = "day-02/part-01.rs"
+
+[[bin]]
+name = "day-02-part-02"
+path = "day-02/part-02.rs"
+
+[dependencies]
+regex = "1.10.2"
