@@ -59,6 +59,14 @@ path = "day-08/part-01.rs"
 name = "day-08-part-02"
 path = "day-08/part-02.rs"
 
+[[bin]]
+name = "day-09-part-01"
+path = "day-09/part-01.rs"
+
+[[bin]]
+name = "day-09-part-02"
+path = "day-09/part-02.rs"
+
 [dependencies]
 regex = "1.10.2"
 itertools = "0.12.0"
